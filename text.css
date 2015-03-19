@@ -99,6 +99,12 @@ td {color: #000000;
 	margin-bottom: 20px;
 }
 
+#home_container {
+	margin-left: 20%;
+	position: relative;
+	top: 10%;
+}
+
 #contact p {
 	margin-bottom: 30px;
 }
